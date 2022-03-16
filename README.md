@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I am working at conceptcube company
+🔭 I am working at ConceptCube company
 <!--
 **dovanthao2404/dovanthao2404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
