@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white">
   
   
-  <img src="https://img.shields.io/badge/antd%20design-1fafff?style=for-the-badge&logo=antdesign&logoColor=white">
 </p>
 
 <h4 align="center"> Frameworks </h4>
@@ -17,6 +16,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/antd%20design-1fafff?style=for-the-badge&logo=antdesign&logoColor=white">
 </p>
 
 
